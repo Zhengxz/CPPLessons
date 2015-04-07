@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>31E87AE8-1836-4198-86E8-5BED768E62B2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CPPLessons</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>85C0E79445C00B27F22F6E406CA2E3068522455C</key>
+		<string>https://github.com/Zhengxz/CPPLessons.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>code/ide/xcode/CPPLessons.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>85C0E79445C00B27F22F6E406CA2E3068522455C</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Zhengxz/CPPLessons.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>85C0E79445C00B27F22F6E406CA2E3068522455C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>85C0E79445C00B27F22F6E406CA2E3068522455C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CPPLessons</string>
+		</dict>
+	</array>
+</dict>
+</plist>
