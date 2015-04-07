@@ -10,5 +10,5 @@
 #include <stdio.h>
 
 void People::sayHello(){
-    printf("Hello CPP\n");
+    printf("Hello CPP！\n");
 }
